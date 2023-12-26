@@ -60,13 +60,6 @@ http://abdoamin.me/Vegan-Market/
     npm start
 ```
 
-## Author
-
-😎 **Abdo Amin**
-
-- GitHub: [@Abdelrhman-Amin](https://github.com/AbdelrhmanAmin)
-- LinkedIn: [@Abdo Amin](https://www.linkedin.com/in/abdoamin/)
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
